@@ -96,8 +96,11 @@ Lastly, Help Topics should be created to assist users in categorizing their issu
 For this lab, the following Help Topics have been created for use when submitting tickets:
 
 Business Critical Outage
+
 Personal Computer Issues
+
 Equipment Reset
+
 Password Request
 
 These topics will streamline the ticket submission process and improve the efficiency of issue resolution.
