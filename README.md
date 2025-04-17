@@ -40,17 +40,29 @@ The first configuration task is to create a new role named Supreme Admin. For th
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9xRM1yg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next step is to create a new Department for System Administrators. While in the Admin Panel, navigate to the Agents menu and select Departments. From there, create a new department named System Administrators to help organize and assign tickets more effectively within osTicket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iLUuOp9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next a Level II Support Team will be created to work alongside the existing Level I Support Team. Within the Admin Panel, navigate to the Agents menu and select Teams. From there, create a new team named Level II Support. This allows for better ticket escalation and support organization within osTicket.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/KxkwNZA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
+<img src="https://i.imgur.com/siOkOna.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+New agents must be created and assigned to the ticket queue. Within the Admin Panel, go to the Agents menu and click on Add New Agent. Fill in the required account credentials and details for each agent. For this lab, create two new agents: Jane Doe and John Doe. These agents will be responsible for managing and responding to support tickets within the system.
