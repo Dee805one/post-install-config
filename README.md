@@ -82,7 +82,9 @@ To allow ticket submission, new users must be created within the system. Navigat
 To effectively prioritize and manage tickets based on their level of impact, Service Level Agreements (SLAs) must be created. Within the Admin Panel, navigate to the Manage menu and select SLA. From there, create the necessary SLA plans. For this lab, three SLAs have been established:
 
 SEV-A – Tickets must be resolved within 1 hour
+
 SEV-B – Tickets must be resolved within 4 hours
+
 SEV-C – Tickets must be resolved within 8 hours
 
 These SLAs help ensure timely responses and resolutions based on the urgency and severity of each request.
