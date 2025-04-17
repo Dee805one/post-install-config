@@ -66,3 +66,38 @@ Next a Level II Support Team will be created to work alongside the existing Leve
 <p>
 
 New agents must be created and assigned to the ticket queue. Within the Admin Panel, go to the Agents menu and click on Add New Agent. Fill in the required account credentials and details for each agent. For this lab, create two new agents: Jane Doe and John Doe. These agents will be responsible for managing and responding to support tickets within the system.
+
+<p>
+<img src="https://i.imgur.com/3eIHubZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+To allow ticket submission, new users must be created within the system. Navigate to the Agent Panel, then open the Users menu and click on Add User. Enter the necessary account credentials for each user. For this lab, create two users: Karen and Ken. These users will be able to submit tickets, which will then be routed to agents for triage and resolution.
+
+<p>
+<img src="https://i.imgur.com/07xBCGZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+To effectively prioritize and manage tickets based on their level of impact, Service Level Agreements (SLAs) must be created. Within the Admin Panel, navigate to the Manage menu and select SLA. From there, create the necessary SLA plans. For this lab, three SLAs have been established:
+
+SEV-A – Tickets must be resolved within 1 hour
+SEV-B – Tickets must be resolved within 4 hours
+SEV-C – Tickets must be resolved within 8 hours
+
+These SLAs help ensure timely responses and resolutions based on the urgency and severity of each request.
+
+<p>
+<img src="https://i.imgur.com/jTH04GO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lastly, Help Topics should be created to assist users in categorizing their issues accurately when submitting tickets. This helps agents quickly understand the nature of the problem and assign or respond accordingly. To create a new Help Topic, navigate to the Admin Panel, open the Manage menu, and select Help Topics. Click on Add New Help Topic and enter the relevant categories.
+
+For this lab, the following Help Topics have been created for use when submitting tickets:
+
+Business Critical Outage
+Personal Computer Issues
+Equipment Reset
+Password Request
+
+These topics will streamline the ticket submission process and improve the efficiency of issue resolution.
